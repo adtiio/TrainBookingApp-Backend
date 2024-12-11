@@ -1,6 +1,4 @@
-# TrainBookingApp-Backend
-
-# 🚄 **Train Booking System**
+#  **Train Booking System**
 
 This is a **Train Booking System** built using **Java**, **Spring Boot**, **MySQL**, and **Spring Security with JWT Tokens**. The system allows users to register, log in, book train tickets, check seat availability, and handle administrative operations like adding and deleting trains. It includes concurrency handling to ensure race conditions are avoided during seat booking and manages overlapping and non-overlapping train routes.
 
